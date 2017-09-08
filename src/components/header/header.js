@@ -2,6 +2,12 @@ import React, { Component } from 'react';
 import { NavLink } from 'react-router-dom';
 import logo from './logo_jokers_header.png';
 
+/**
+ * 
+ * 
+ * @class Header
+ * @extends {Component}
+ */
 class Header extends Component {
   render() {
     return (
