@@ -1,4 +1,4 @@
-Jokers D4 site
+Jokers D4 website
 
 ## Installation
 Install package with yarn `yarn` or `npm install`</br>
