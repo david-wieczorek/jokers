@@ -4,7 +4,7 @@ class Homelogo extends Component {
   render() {
     return (
       <div className="home-logo">
-        <h1>Online Player Scores</h1>
+        <h1>Jokers D4 website</h1>
       </div>
     );
   }
